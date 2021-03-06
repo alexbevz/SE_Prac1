@@ -6,7 +6,7 @@
 
     <groupId>ru.bevz</groupId>
     <artifactId>SE_Prac1_2</artifactId>
-    <version>1.0.1-SNAPSHOT</version>
+    <version>1.0.2-SNAPSHOT</version>
     <packaging>maven-plugin</packaging>
     <description>System info plugin</description>
 
